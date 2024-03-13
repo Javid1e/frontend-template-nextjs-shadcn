@@ -1,4 +1,4 @@
 export const siteConfig = {
-    name: 'نام سایت',
-    description: 'توضیحات',
+  name: 'راه یار',
+  description: 'دمات امداد خودرو در استان اصفهان و تمام مسیر های حومه',
 };
